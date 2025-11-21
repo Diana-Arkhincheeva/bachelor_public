@@ -11,8 +11,7 @@ Three algorithms were used for optimization: Genetic Algorithm, Simulated Anneal
 
 All results, including the generation of three calendar scenarios and the optimization results from the three algorithms, are also provided in the results folder.
 
-Python version.
-A set of scripts for privacy attacks on schedules and utility-aware privacy protection.
+This project uses [**Ruff**](https://github.com/astral-sh/ruff) for ultra-fast Python linting and code formatting:
 
 # Prerequisites
 
