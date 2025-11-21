@@ -11,3 +11,5 @@ scipy>=1.7.3
 six==1.16.0
 tqdm==4.64.0
 xxhash==2.0.2
+seaborn
+matplotlib
